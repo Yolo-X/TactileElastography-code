@@ -1,0 +1,3 @@
+Comparing WE 0 with WE 1:
+RMSE = 0.089406 MPa, SSIM = 0.894493, PSNR = 24.488701, Cosine Similarity = 0.903809
+----------------------------------------
